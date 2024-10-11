@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"LINK_TO_TUTORIALS",
+  "name":"LINK_TO_TUTORIALS",
+  "parent":{
+    "name":"Space_shooter",
+    "path":"Space_shooter.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
